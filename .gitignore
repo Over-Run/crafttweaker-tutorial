@@ -1,0 +1,29 @@
+# my team is Overrun Organization
+# this zenscript about baka4n
+
+#windows applications
+*.exe
+*.dll
+*.xml
+*.cfg
+1.12.2.jar
+
+#minecraft
+.minecraft/assets/
+.minecraft/config/
+.minecraft/libraries/
+.minecraft/logs/
+.minecraft/saves/
+.minecraft/version/
+.minecraft/resourcepacks/
+
+#crafttweaker configs
+*.log
+*.txt
+*.json
+
+#nvidia config
+NVIDIA
+
+#idea
+.idea/
